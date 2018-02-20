@@ -1,0 +1,240 @@
+fileFormatVersion: 2
+guid: 7bc2f935b26a7af4eac5ca3ce19b486f
+timeCreated: 1508333508
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DrawCall_0103
+    100004: DrawCall_0193
+    100006: DrawCall_0213
+    100008: DrawCall_0214
+    100010: DrawCall_0215
+    100012: DrawCall_0216
+    100014: DrawCall_0218
+    100016: DrawCall_0219
+    100018: DrawCall_0220
+    100020: DrawCall_0221
+    100022: Escape
+    100024: Luzes
+    100026: Luzes_Tras
+    100028: polySurface1
+    100030: polySurface14
+    100032: polySurface2
+    100034: polySurface3
+    100036: Roda_Frente_D
+    100038: Roda_Frente_E
+    100040: Roda_Tras_D
+    100042: Roda_Tras_E
+    100044: Vidro
+    400000: //RootNode
+    400002: DrawCall_0103
+    400004: DrawCall_0193
+    400006: DrawCall_0213
+    400008: DrawCall_0214
+    400010: DrawCall_0215
+    400012: DrawCall_0216
+    400014: DrawCall_0218
+    400016: DrawCall_0219
+    400018: DrawCall_0220
+    400020: DrawCall_0221
+    400022: Escape
+    400024: Luzes
+    400026: Luzes_Tras
+    400028: polySurface1
+    400030: polySurface14
+    400032: polySurface2
+    400034: polySurface3
+    400036: Roda_Frente_D
+    400038: Roda_Frente_E
+    400040: Roda_Tras_D
+    400042: Roda_Tras_E
+    400044: Vidro
+    2300000: //RootNode
+    2300002: DrawCall_0103
+    2300004: DrawCall_0193
+    2300006: DrawCall_0213
+    2300008: DrawCall_0214
+    2300010: DrawCall_0215
+    2300012: DrawCall_0216
+    2300014: DrawCall_0218
+    2300016: DrawCall_0219
+    2300018: DrawCall_0220
+    2300020: DrawCall_0221
+    2300022: Escape
+    2300024: Luzes
+    2300026: Luzes_Tras
+    2300028: polySurface1
+    2300030: polySurface14
+    2300032: polySurface2
+    2300034: polySurface3
+    2300036: Roda_Frente_D
+    2300038: Roda_Frente_E
+    2300040: Roda_Tras_D
+    2300042: Roda_Tras_E
+    2300044: Vidro
+    3300000: //RootNode
+    3300002: DrawCall_0103
+    3300004: DrawCall_0193
+    3300006: DrawCall_0213
+    3300008: DrawCall_0214
+    3300010: DrawCall_0215
+    3300012: DrawCall_0216
+    3300014: DrawCall_0218
+    3300016: DrawCall_0219
+    3300018: DrawCall_0220
+    3300020: DrawCall_0221
+    3300022: Escape
+    3300024: Luzes
+    3300026: Luzes_Tras
+    3300028: polySurface1
+    3300030: polySurface14
+    3300032: polySurface2
+    3300034: polySurface3
+    3300036: Roda_Frente_D
+    3300038: Roda_Frente_E
+    3300040: Roda_Tras_D
+    3300042: Roda_Tras_E
+    3300044: Vidro
+    4300000: Carro
+    4300002: DrawCall_0193
+    4300004: Vidro
+    4300006: polySurface3
+    4300008: polySurface14
+    4300010: polySurface2
+    4300012: polySurface1
+    4300014: Luzes_Tras
+    4300016: Escape
+    4300018: Roda_Tras_E
+    4300020: DrawCall_0221
+    4300022: DrawCall_0214
+    4300024: DrawCall_0103
+    4300026: Roda_Tras_D
+    4300028: DrawCall_0220
+    4300030: DrawCall_0216
+    4300032: Roda_Frente_E
+    4300034: DrawCall_0218
+    4300036: DrawCall_0215
+    4300038: Roda_Frente_D
+    4300040: DrawCall_0219
+    4300042: DrawCall_0213
+    4300044: Luzes
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _dds1
+    second: {fileID: 2100000, guid: ddfa094f5a1a9dd4fb465cb4573b97af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: acc33c83_dds1
+    second: {fileID: 2100000, guid: 09c2d49c4f7026e4a82f343ff95bc2f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn3
+    second: {fileID: 2100000, guid: d1cbc21d0b16a9d48a35b6db87cb1770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn4
+    second: {fileID: 2100000, guid: 6ba3f3562ce092842b1d1e3bd4dc10c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn5
+    second: {fileID: 2100000, guid: 45f1fe355148ccd4ba43cc3765b59c10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: c5f17252_dds1
+    second: {fileID: 2100000, guid: ddcf7b2fcfb6f1a48b868e98c9d2eea5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: d94799e7_dds1
+    second: {fileID: 2100000, guid: cbf16086147a5c245995dc72a67c823a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ec80a_dds1
+    second: {fileID: 2100000, guid: 03510c80d48de95469f584ca0b9610da, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
